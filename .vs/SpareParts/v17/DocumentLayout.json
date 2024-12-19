@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE72B5D3-5B00-4707-97F0-A44869004A36}|Solution Items{EE72B5D3-5B00-4707-97F0-A44869004A36}|C:\\Users\\gorke\\Source\\Repos\\gorkemtakak\\WheelersAndDealers\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EE72B5D3-5B00-4707-97F0-A44869004A36}|Solution Items{EE72B5D3-5B00-4707-97F0-A44869004A36}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75A5880A-5D75-4DD4-A7FB-71CF0D8D3E02}|InternshipManagement\\SpareParts.csproj|c:\\users\\gorke\\source\\repos\\gorkemtakak\\wheelersanddealers\\internshipmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75A5880A-5D75-4DD4-A7FB-71CF0D8D3E02}|InternshipManagement\\SpareParts.csproj|solutionrelative:internshipmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{75A5880A-5D75-4DD4-A7FB-71CF0D8D3E02}|InternshipManagement\\SpareParts.csproj|c:\\users\\gorke\\source\\repos\\gorkemtakak\\wheelersanddealers\\internshipmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{75A5880A-5D75-4DD4-A7FB-71CF0D8D3E02}|InternshipManagement\\SpareParts.csproj|solutionrelative:internshipmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EC8966-6709-4F35-B163-68BFA0E3D8C8}|Menager\\Menager.csproj|c:\\users\\gorke\\source\\repos\\gorkemtakak\\wheelersanddealers\\menager\\ispareparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EC8966-6709-4F35-B163-68BFA0E3D8C8}|Menager\\Menager.csproj|solutionrelative:menager\\ispareparts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-19T19:11:06.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISpareParts.cs",
+              "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\Menager\\ISpareParts.cs",
+              "RelativeDocumentMoniker": "Menager\\ISpareParts.cs",
+              "ToolTip": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\Menager\\ISpareParts.cs",
+              "RelativeToolTip": "Menager\\ISpareParts.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:04:26.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\InternshipManagement\\Program.cs",
               "RelativeDocumentMoniker": "InternshipManagement\\Program.cs",
               "ToolTip": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\InternshipManagement\\Program.cs",
               "RelativeToolTip": "InternshipManagement\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T18:59:13.576Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\gorke\\source\\repos\\gorkemtakak\\WheelersAndDealers\\InternshipManagement\\appsettings.json",
               "RelativeDocumentMoniker": "InternshipManagement\\appsettings.json",
