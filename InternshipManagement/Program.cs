@@ -13,7 +13,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<SqlDbContext>
     (x => x.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddTransient<ISparePartsData, Data.SparePartsData>();
+builder.Services.AddTransient<ISparePartsData, SparePartsData>();
 builder.Services.AddTransient<SparePartsMenager, Menager.SparePartsMenager>();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddDbContext<DataDb, SqlDbContext>(opt => opt.EnableSensitiveDataLogging());
